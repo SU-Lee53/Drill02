@@ -46,6 +46,4 @@ while True:
             character.draw_now(x, y)
         temp += 1
                        
-
-
 close_canvas()
